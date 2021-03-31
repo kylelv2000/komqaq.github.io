@@ -1,2 +1,0 @@
-# komqaq.github.io
-qaz
