@@ -7,7 +7,7 @@
 ## 1. 词频统计图
   本次统计了红楼梦[词组出现次数](https://komqaq.github.io/hongloumeng/output/words.html)，并生成了词云
 
-  我们还根据全文的所有[人物出现次数](https://komqaq.github.io/hongloumeng/output/names.html)生成了词云，该词云我们用了信科吉祥物[小狮子](https://komqaq.github.io/hongloumeng/qaz.jpeg)为模板生成
+  我们还根据全文的所有[人物出现次数](https://komqaq.github.io/hongloumeng/output/names.html)生成了词云，该词云我们用了信科吉祥物[小狮子](https://komqaq.github.io/hongloumeng/qaz.jpeg)为模板生成【可能出现不明原因无法显示，建议刷新网页（雾】
 
   之后，我们利用timeline，统计了[每回合人物词频](https://komqaq.github.io/hongloumeng/output/timeline_pie.html)，可以清晰的看出每回合的主要人物，以及情节的发展变化，关注人物的转移
 
