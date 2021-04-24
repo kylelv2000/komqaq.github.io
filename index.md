@@ -2,7 +2,7 @@
 
 ### 吕昆航 1900013053
 
-<br></br>
+<br>
 
 ## part1
   本次生成了红楼梦出现次数前50的[人物互相关系图](https://komqaq.github.io/hw03/part1/output/graph.html)，我们对于人物次数发现差距悬殊，因此采取开根号的方式减小相对差距。
@@ -14,15 +14,15 @@
   本[静态网页](https://komqaq.github.io/hw03/part3/index.html)展示了pkucpc的公告，并利用css与js动态渲染了背景。
 
 
-<br></br>
+<br>
 
-<br></br>
+<br>
 
-<br></br>
+<br>
 
 # 计算机科学与编程入门第二次作业
 
-<br></br>
+<br>
 
 ## 1. 词频统计图
   本次统计了红楼梦[词组出现次数](https://komqaq.github.io/hw02/hongloumeng/output/words.html)，并生成了词云
