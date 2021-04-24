@@ -1,6 +1,26 @@
-# 计算机科学与编程入门第二次作业
+# 计算机科学与编程入门第三次作业
 
 ### 吕昆航 1900013053
+
+<br></br>
+
+## part1
+  本次生成了红楼梦出现次数前50的[人物互相关系图](https://komqaq.github.io/hw03/part1/output/graph.html)，我们对于人物次数发现差距悬殊，因此采取开根号的方式减小相对差距。
+
+## part2
+  本次[搜索引擎](https://komqaq.github.io/hw03/part2/search.html)模拟实现了百度搜索和Google搜索二合一，并利用required限制了必须输入内容才能搜索，由于两家搜索引擎传入参数名称不同，我们采用插入js代码段进行判断更改。
+
+## part3
+  本[静态网页](https://komqaq.github.io/hw03/part3/index.html)展示了pkucpc的公告，并利用css与js动态渲染了背景。
+
+
+<br></br>
+
+<br></br>
+
+<br></br>
+
+# 计算机科学与编程入门第二次作业
 
 <br></br>
 
